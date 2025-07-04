@@ -1,5 +1,4 @@
-@[TOC](目录)
-<center><img src="https://img-blog.csdnimg.cn/299da6849a844e6881a91ce15d16239c.gif#pic_center" alt="权限管理"></center>
+# 后端源码已全部开源，可依照接口实现前端和数据库学习，源码非免费开源，需要获取完整源码，可＋v：732708009
 
 # 一.🦁 前言
 

@@ -1,4 +1,5 @@
 如果您需要，请关注我叭：[CSDN博主](http://lions.blog.csdn.net)
+承接 `项目定制，项目二次开发，毕业lun wen等（传统web开发、小程序、app、yolo识别、cv和LSTM）` 
 <br/>
                         vx：732708009
 

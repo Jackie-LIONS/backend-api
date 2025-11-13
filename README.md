@@ -1,4 +1,4 @@
-如果您需要，请关注我叭：[CSDN博主](http://lions.blog.csdn.net)
+如果您需要，请关注我叭：[CSDN博主](http://lions.blog.csdn.net),手把手帮您把项目运行起来
 <br/>
 承接 `项目定制，项目二次开发，毕业lun wen等（传统web开发、小程序、app、yolo识别、cv和LSTM）` 
 <br/>
